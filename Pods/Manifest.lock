@@ -1,0 +1,10 @@
+PODS:
+  - MaryPopin (1.4.2)
+
+DEPENDENCIES:
+  - MaryPopin
+
+SPEC CHECKSUMS:
+  MaryPopin: 714fefdd2db1e53fba4fc2860d34a43ddc70ac77
+
+COCOAPODS: 0.34.4

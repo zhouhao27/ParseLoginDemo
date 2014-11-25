@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9DF5AAF7-0D89-48F6-98F8-8B0C0EF3E681</string>
+	<key>IDESourceControlProjectName</key>
+	<string>User</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BC48E8967FB2793587D995F8C5862AFBD2C1809E</key>
+		<string>https://github.com/zhouhao27/ParseLoginDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>User.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BC48E8967FB2793587D995F8C5862AFBD2C1809E</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zhouhao27/ParseLoginDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BC48E8967FB2793587D995F8C5862AFBD2C1809E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BC48E8967FB2793587D995F8C5862AFBD2C1809E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ParseLoginDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -15,7 +15,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         
-        Parse.setApplicationId("EIaKfWOgSYBWO8KypQBB9HrCWF3rROu4Rxu4Uc0o", clientKey: "1dVFnP8gDuNC2UiV6bjLFxMhDlcBIph5w4pyt4Gd")
+        Parse.setApplicationId("AppID", clientKey: "ClientId")
         PFFacebookUtils.initializeFacebook()
 
         return true
